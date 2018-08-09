@@ -1,0 +1,30 @@
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Infra.Data.EF.dll.config
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.csprojResolveAssemblyReference.cache
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.Migrations.ProjetoModelo_V1.resources
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.csproj.GenerateResource.Cache
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Infra.Data.EF.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\ProjetoModelo.Domain.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.Migrations.ProjetoModelo_V1.resources
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.csproj.GenerateResource.Cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.EF\obj\Debug\ProjetoModelo.Infra.Data.EF.pdb

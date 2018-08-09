@@ -1,0 +1,21 @@
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Application.dll
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Application.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\AutoMapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\System.ComponentModel.Annotations.dll
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Application\bin\Debug\AutoMapper.xml
+C:\work\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.csprojResolveAssemblyReference.cache
+C:\work\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.dll
+C:\work\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Application.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Application.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\AutoMapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\System.ComponentModel.Annotations.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\ProjetoModelo.Domain.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\bin\Debug\AutoMapper.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Application\obj\Debug\ProjetoModelo.Application.pdb

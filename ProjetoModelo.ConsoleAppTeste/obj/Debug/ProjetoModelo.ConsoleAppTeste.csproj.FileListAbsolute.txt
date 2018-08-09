@@ -1,0 +1,56 @@
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.ConsoleAppTeste.exe.config
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.ConsoleAppTeste.exe
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.ConsoleAppTeste.pdb
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.EF.dll.config
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.xml
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.SqlServer.xml
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.csprojResolveAssemblyReference.cache
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.exe
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.pdb
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\Dapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.Dapper.pdb
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.xml
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.dll.config
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\Dapper.xml
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.csproj.CoreCompileInputs.cache
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\x86\sqlite3.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\x64\sqlite3.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.EF6.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.Linq.dll
+C:\work\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\x86\sqlite3.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\x64\sqlite3.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.ConsoleAppTeste.exe.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.ConsoleAppTeste.exe
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.ConsoleAppTeste.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.EF6.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.Linq.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\Dapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Domain.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.Dapper.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\ProjetoModelo.Infra.Data.EF.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\System.Data.SQLite.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\bin\Debug\Dapper.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.exe
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.ConsoleAppTeste\obj\Debug\ProjetoModelo.ConsoleAppTeste.pdb

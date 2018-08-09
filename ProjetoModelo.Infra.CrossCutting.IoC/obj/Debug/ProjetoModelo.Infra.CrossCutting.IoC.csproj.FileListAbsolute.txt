@@ -1,0 +1,37 @@
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.CrossCutting.IoC.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.CrossCutting.IoC.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\Ninject.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Application.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Application.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.Data.EF.dll.config
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\Ninject.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.CrossCutting.IoC.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.CrossCutting.IoC.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\Ninject.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Application.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.Data.EF.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Application.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Domain.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.Data.EF.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\ProjetoModelo.Infra.Data.EF.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\Ninject.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\bin\Debug\EntityFramework.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.CrossCutting.IoC\obj\Debug\ProjetoModelo.Infra.CrossCutting.IoC.pdb

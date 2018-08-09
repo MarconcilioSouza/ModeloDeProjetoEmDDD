@@ -1,0 +1,12 @@
+C:\work\ProjetoModelo\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csprojResolveAssemblyReference.cache
+C:\work\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.pdb

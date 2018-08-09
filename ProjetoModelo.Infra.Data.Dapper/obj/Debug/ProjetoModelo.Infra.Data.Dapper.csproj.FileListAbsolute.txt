@@ -1,0 +1,44 @@
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Infra.Data.Dapper.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\Dapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Domain.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Domain.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\Dapper.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.dll.config
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.csprojResolveAssemblyReference.cache
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.pdb
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.csproj.CoreCompileInputs.cache
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\x86\sqlite3.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\x64\sqlite3.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll.config
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.EF6.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.Linq.dll
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.xml
+C:\work\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\x86\sqlite3.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\x64\sqlite3.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Infra.Data.Dapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Infra.Data.Dapper.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\Dapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.SqlServer.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Domain.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.EF6.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.Linq.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\ProjetoModelo.Domain.pdb
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\Dapper.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\EntityFramework.SqlServer.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.xml
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\bin\Debug\System.Data.SQLite.dll.config
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.csprojResolveAssemblyReference.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.csproj.CoreCompileInputs.cache
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.dll
+C:\WORK\1-Arquivos Pessoais\stackoverflow\ProjetoModelo\ProjetoModelo.Infra.Data.Dapper\obj\Debug\ProjetoModelo.Infra.Data.Dapper.pdb
